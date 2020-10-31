@@ -30,5 +30,7 @@ The custom dataset is collected from google images for the below mentioned class
 * vest
 * boots
 
+Used the annotation tool from https://github.com/miki998/YoloV3_Annotation_Tool to annotate the custom dataset with Bounding Boxes
+
 https://drive.google.com/drive/folders/1n0XBYkrmHqg1-nliJ5Di5VQuDbyiEqGe?usp=sharing
  
