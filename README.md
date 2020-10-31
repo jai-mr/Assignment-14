@@ -28,7 +28,7 @@ https://drive.google.com/drive/folders/1L8vUdLSzy6pi7hmU97-5XGpSGuFMYl6e?usp=sha
 3. Install [PyTorch](https://pytorch.org/) with Cuda 8.0 support
 4. Connect to Google drive to access the input data set 
 5. Setup PlanerCNN
-6. Instal the requirments for the needed versions
+6. Install the requirments for the needed versions
     * cffi==1.11.5
     * numpy==1.15.4
     * opencv-python==3.4.4.19
