@@ -24,5 +24,11 @@ https://github.com/jai-mr/Assignment-14/blob/main/S14_CodeFinal_PlanerCnn.ipynb
 https://drive.google.com/drive/folders/1eQY1y0MAp_9ZihtvQ0K-7OU4BGGXkwdL?usp=sharing
 
 # Annotated Images
+The custom dataset is collected from google images for the below mentioned classes,
+* hardhat
+* mask
+* vest
+* boots
+
 https://drive.google.com/drive/folders/1n0XBYkrmHqg1-nliJ5Di5VQuDbyiEqGe?usp=sharing
  
