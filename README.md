@@ -21,7 +21,7 @@ https://github.com/NVlabs/planercnn
 https://github.com/jai-mr/Assignment-14/blob/main/S14_CodeFinal_PlanerCnn.ipynb
 
 ## Output
-https://drive.google.com/drive/folders/1tmiSLkV1un3URSetXBrj6v_HnE8Tycy5?usp=sharing
+https://drive.google.com/drive/folders/1ET2y39dcEMv-RiwBygzjdf5Aj5f-JM1b?usp=sharing
 
 # Annotated Images
 https://drive.google.com/drive/folders/1n0XBYkrmHqg1-nliJ5Di5VQuDbyiEqGe?usp=sharing
