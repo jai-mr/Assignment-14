@@ -20,5 +20,5 @@ https://github.com/jai-mr/Assignment-14/blob/main/S14_CodeFinal_PlanerCnn.ipynb
 ## Output
 https://drive.google.com/drive/folders/1tmiSLkV1un3URSetXBrj6v_HnE8Tycy5?usp=sharing
 
-##  Annotated Images
+# Annotated Images
 https://drive.google.com/drive/folders/1n0XBYkrmHqg1-nliJ5Di5VQuDbyiEqGe?usp=sharing
