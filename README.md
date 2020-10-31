@@ -2,6 +2,8 @@
 
 # Midas 
 
+MiDaS computes relative inverse depth from a single image
+
 ## Reference url for implementation
 https://github.com/intel-isl/MiDaS
 
